@@ -4,6 +4,8 @@
 **Comparative Analysis of Deep Learning Architectures for Brain Tumor Classification using MRI Images**  
 *Accepted at CONMEDIA 2025*
 
+https://ieeexplore.ieee.org/document/11290384
+
 ---
 
 ## 📖 Description
